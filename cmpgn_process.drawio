@@ -1,0 +1,39 @@
+<mxfile host="65bd71144e">
+    <diagram id="QzOqGeDf1JgUvc-LzIhI" name="Page-1">
+        <mxGraphModel dx="1411" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Szacowanie&lt;br&gt;szansy zakupu&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#99FFCC;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="250" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Wybór &lt;br&gt;optymalnej strategii&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#FFCC99;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="250" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;Realizacja&lt;br&gt;kampanii&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#FF9999;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="250" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;Podsumowanie&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#99CCFF;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="250" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=30;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9" target="6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="340" as="sourcePoint"/>
+                        <mxPoint x="450" y="340" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="830" y="295"/>
+                            <mxPoint x="830" y="210"/>
+                            <mxPoint x="50" y="210"/>
+                            <mxPoint x="50" y="295"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="Pętla zwrotna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10" vertex="1" connectable="0">
+                    <mxGeometry x="0.0608" y="3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
