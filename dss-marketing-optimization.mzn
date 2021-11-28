@@ -25,7 +25,7 @@ constraint sum(customer in 1..pCustomersN,
                channel in 1..pChannelsN)
             (
                 vAssignment[customer, product, channel]*pExpectedReve[customer, product, channel]
-            ) >= 
+            ) >=
             (1+pMinHurdleReve)*sum(customer in 1..pCustomersN,
                                    product in 1..pProductsN,
                                    channel in 1..pChannelsN)
@@ -38,7 +38,7 @@ constraint forall(customer in 1..pCustomersN,
                   product in 1..pProductsN) (
     sum(channel in 1..pChannelsN)(
         vAssignment[customer, product, channel]
-    ) <= 1 
+    ) <= 1
 );
 
 solve maximize sum(customer in 1..pCustomersN,
