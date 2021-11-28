@@ -1,35 +1,35 @@
 <mxfile host="65bd71144e">
     <diagram id="V86D3Y3RGsqECN7tLShg" name="Page-1">
-        <mxGraphModel dx="1358" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="655" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="&lt;b&gt;&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;Model optymalizacyjny&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;b&gt;&lt;font face=&quot;Open sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+sans&quot; style=&quot;font-size: 14px&quot;&gt;Optimization model&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
                     <mxGeometry x="217.5" y="310" width="425" height="370" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Zmienne" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#dae8fc;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                <mxCell id="5" value="Variables" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#dae8fc;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="320" y="360" width="220" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Ograniczenia" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#d5e8d4;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#82b366;" vertex="1" parent="1">
+                <mxCell id="6" value="Constraints" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#d5e8d4;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#82b366;" parent="1" vertex="1">
                     <mxGeometry x="320" y="420" width="220" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="edgeStyle=none;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;" edge="1" parent="1" source="7" target="6">
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;" parent="1" source="7" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Funkcja celu" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#ffe6cc;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#d79b00;" vertex="1" parent="1">
+                <mxCell id="7" value="Objective function" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#ffe6cc;shadow=0;verticalAlign=top;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#d79b00;" parent="1" vertex="1">
                     <mxGeometry x="320" y="480" width="220" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Parametry&lt;br&gt;(dane)" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#f5f5f5;shadow=0;verticalAlign=middle;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+                <mxCell id="8" value="Parameters&lt;br&gt;(data)" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#f5f5f5;shadow=0;verticalAlign=middle;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
                     <mxGeometry x="365" y="590" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Pokrętła,którymi kręcimy." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" vertex="1" parent="1">
-                    <mxGeometry x="355" y="390" width="150" height="20" as="geometry"/>
+                <mxCell id="10" value="Knobs to be tweaked" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="370" y="390" width="120" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Reguły biznesowe" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" vertex="1" parent="1">
-                    <mxGeometry x="375" y="450" width="110" height="20" as="geometry"/>
+                <mxCell id="11" value="Business rules" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="385" y="450" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Jaki uzyskujemy efekt?" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" vertex="1" parent="1">
-                    <mxGeometry x="355" y="510" width="140" height="20" as="geometry"/>
+                <mxCell id="12" value="What do we want to optimize?" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="340" y="510" width="170" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
