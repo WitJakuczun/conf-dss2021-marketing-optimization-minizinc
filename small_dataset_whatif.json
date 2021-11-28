@@ -1,0 +1,36 @@
+{
+    "pCustomersN": 2,
+    "pProductsN": 2,
+    "pChannelsN": 2,
+    "pMinHurdleReve": 0.2,
+    "pExpectedReve": [
+        [
+            [
+                0.45,
+                0.2
+            ],
+            [
+                0.35,
+                0.3
+            ]
+        ],
+        [
+            [
+                0.55,
+                0.1
+            ],
+            [
+                0.2,
+                0.45
+            ]
+        ]
+    ],
+    "pChannelCosts": [
+        0.45,
+        0.2
+    ],
+    "pProductsMinOffersN": [
+        1,
+        1
+    ]
+}
