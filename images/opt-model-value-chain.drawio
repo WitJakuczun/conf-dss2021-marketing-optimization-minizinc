@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="G_HnpmSo36ZBaUIf6D7w" name="Page-1">
+        <mxGraphModel dx="1050" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="200" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Forecasts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="300" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Recommendations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="400" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=7.5;dx=38;notch=7;arrowHead=33;rounded=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;rotation=-180;flipH=1;fillColor=#E6E6E6;strokeColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="270" width="70" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=7.5;dx=38;notch=7;arrowHead=33;rounded=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;rotation=-180;flipH=1;fillColor=#E6E6E6;strokeColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="361" y="370" width="70" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Machine&lt;br&gt;learning&lt;br&gt;model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="160" y="320" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Optimization&lt;br&gt;model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="290" y="420" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=34;notch=15;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fontColor=#CCFFCC;fillColor=#E6E6E6;strokeColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="405" width="75" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Decisions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="670" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="image;html=1;image=img/lib/clip_art/finance/Coins_128x128.png;fontFamily=Open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2Bsans;fontSize=16;fontColor=#000000;strokeColor=#E6E6E6;fillColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="714" y="440" width="30" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
